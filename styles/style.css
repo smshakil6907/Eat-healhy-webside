@@ -1,0 +1,16 @@
+/* banner section style */
+.banner-container {
+  max-width: 1440px;
+  height: 500px;
+  border: 2px solid red;
+  background-color: #fafafa;
+  display: flex;
+  justify-content: space-around;
+}
+/* .banner-text-container {
+  margin-left: 50px;
+} */
+.banner-image-container img {
+  width: 50%;
+  /* margin-left: 400px; */
+}
